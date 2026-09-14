@@ -18,6 +18,9 @@ Active Customer MRR             $316,530.15
 Avg. Tenure --- Churned         17.98 months
 Avg. Tenure --- Non-Churned     37.65 months
 
+<img width="661" height="485" alt="Screenshot 2026-09-14 204811" src="https://github.com/user-attachments/assets/1e8f9a9f-014a-4909-bb40-a4de93afa63c" />
+
+
 📈 Dashboard Analysis
 
 📋 Churn Rate by Contract
